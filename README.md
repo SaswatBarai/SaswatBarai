@@ -187,17 +187,6 @@
 
 ---
 
-### ⚡ **Fun Facts About Me:**
-- 🎯 I can debug faster with `console.log()` than with a debugger
-- ☕ Coffee-to-code ratio: 1:1 (perfectly balanced)
-- 🌙 Night owl developer (best code happens after midnight)
-- 🎮 When not coding, you'll find me exploring new tech or gaming
-- 📚 Currently reading: "Clean Architecture" by Robert C. Martin
-- 🚀 I believe in "Code, Coffee, Repeat" philosophy
-- 🎵 I code better with lo-fi beats in the background
-
----
-
 <div align="center">
   **⭐ Star some repositories if you find them interesting!**  
   **🔄 Don't forget to follow for more awesome projects!**  
