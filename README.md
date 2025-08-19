@@ -1,198 +1,319 @@
 # 🚀 Welcome to Saswat Barai's Digital Universe 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D4AA&background=0D111700&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Backend+Architecture+Expert+%F0%9F%8F%97%EF%B8%8F;MERN+Stack+Specialist+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Animated Typing" />
-
-<div align="center">
-    <img src="https://github.com/SaswatBarai.png" alt="Saswat Barai" width="200" height="200" style="border-radius: 50%; border: 4px solid #58A6FF;"/>
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=SaswatBarai&label=Profile%20Views&color=58A6FF&style=for-the-badge)](https://github.com/SaswatBarai)
-  [![GitHub followers](https://img.shields.io/github/followers/SaswatBarai?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/SaswatBarai)
-  [![GitHub stars](https://img.shields.io/github/stars/SaswatBarai?label=Stars&style=for-the-badge&color=FFA500)](https://github.com/SaswatBarai)
-</div>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Welcome Message" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
-
-<div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 2px solid #00D4AA;">
-  <p style="color: #FFFFFF; font-size: 18px; line-height: 1.6;">
-    Hello! I'm <strong style="color: #00D4AA;">Saswat Barai</strong>, a passionate Full Stack Developer from <strong style="color: #FFD700;">India 🇮🇳</strong>. I specialize in building scalable and efficient web applications using modern technologies. With a strong foundation in backend architecture and a knack for problem-solving, I aim to create impactful solutions that make a difference.
+<div style="background-color: #0D1117; padding: 30px; border-radius: 15px; border: 2px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);">
+  <p style="color: #FFFFFF; font-size: 20px; line-height: 1.8; margin-bottom: 20px;">
+    Hello! I'm <strong style="color: #00D4AA; font-size: 24px;">Saswat Barai</strong>, a passionate Full Stack Developer from <strong style="color: #FFD700;">India 🇮🇳</strong>. I specialize in building scalable and efficient web applications using modern technologies. With a strong foundation in backend architecture and a knack for problem-solving, I aim to create impactful solutions that make a difference.
   </p>
 
-  <h3 style="color: #FFD700;">🌟 Highlights:</h3>
-  <ul style="color: #FFFFFF; font-size: 16px;">
-    <li><strong>Role:</strong> Full Stack Developer, Backend Architect, Problem Solver</li>
-    <li><strong>Experience:</strong> Crafting scalable solutions with cutting-edge tech stacks</li>
-    <li><strong>Passions:</strong> Clean Code, System Design, Performance Optimization</li>
-    <li><strong>Current Focus:</strong> Microservices, GraphQL, DevOps, Cloud Architecture</li>
+  <h3 style="color: #FFD700; font-size: 22px; margin: 25px 0 15px 0; border-bottom: 3px solid #FFD700; padding-bottom: 8px;">
+    🌟 Highlights:
+  </h3>
+  <ul style="color: #FFFFFF; font-size: 17px; line-height: 1.8; list-style: none; padding-left: 0;">
+    <li style="margin: 12px 0; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.1); border-left: 4px solid #00D4AA; border-radius: 8px;"><strong style="color: #00D4AA;">Role:</strong> Full Stack Developer, Backend Architect, Problem Solver</li>
+    <li style="margin: 12px 0; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.1); border-left: 4px solid #00D4AA; border-radius: 8px;"><strong style="color: #00D4AA;">Experience:</strong> Crafting scalable solutions with cutting-edge tech stacks</li>
+    <li style="margin: 12px 0; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.1); border-left: 4px solid #00D4AA; border-radius: 8px;"><strong style="color: #00D4AA;">Passions:</strong> Clean Code, System Design, Performance Optimization</li>
+    <li style="margin: 12px 0; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.1); border-left: 4px solid #00D4AA; border-radius: 8px;"><strong style="color: #00D4AA;">Current Focus:</strong> Microservices, GraphQL, DevOps, Cloud Architecture</li>
   </ul>
 
-  <h3 style="color: #FFD700;">🌱 Philosophy:</h3>
-  <blockquote style="color: #00D4AA; font-style: italic; border-left: 4px solid #FFD700; padding-left: 10px;">
+  <h3 style="color: #FFD700; font-size: 22px; margin: 30px 0 15px 0; border-bottom: 3px solid #FFD700; padding-bottom: 8px;">
+    🌱 Philosophy:
+  </h3>
+  <blockquote style="color: #00D4AA; font-style: italic; font-size: 18px; border-left: 6px solid #FFD700; padding: 20px 25px; margin: 20px 0; background-color: rgba(255, 215, 0, 0.1); border-radius: 12px;">
     "Always learning, always growing. Building the future, one line of code at a time! ✨"
   </blockquote>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **My Expertise**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> **My Expertise & Technology Stack**
 
-### 🎯 **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Development" />
+<div style="background-color: #0D1117; padding: 30px; border-radius: 15px; border: 2px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.2);">
+  
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;">
+      🎯 Core Languages & Frameworks
+    </h3>
+    <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,nodejs,react,nextjs,express" alt="Languages" style="margin-bottom: 15px;"><br>
+      </p>
+    </div>
+  </div>
 
-### 🗄️ **Database Management**
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" alt="Database Management" />
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;">
+      🚀 Backend Development & Database Technologies
+    </h3>
+    <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,redis,graphql,prisma" alt="Backend & Databases" style="margin-bottom: 15px;"><br>
+      </p>
+    </div>
+  </div>
 
-### ⚛️ **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs" alt="Frontend Development" />
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;">
+      ⚛️ Frontend Development & UI/UX
+    </h3>
+    <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,redux,vite,html,css,sass,materialui" alt="Frontend Technologies">
+      </p>
+    </div>
+  </div>
 
-### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=gcp,docker" alt="Cloud & DevOps" />
-
-### 🔧 **API Development**
-<img src="https://skillicons.dev/icons?i=graphql,rest" alt="API Development" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Technology Stack**
-
-### 🔮 **Core Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express" />
-
-### 🚀 **Backend & Database Technologies**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
-
-<img src="https://skillicons.dev/icons?i=graphql,prisma,socket.io" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" width="48" height="48" alt="JWT"/>
-
-### 🎨 **Frontend & UI/UX**
-
-<img src="https://skillicons.dev/icons?i=tailwind,redux,vite,html,css,sass" />
-
-<img src="https://skillicons.dev/icons?i=materialui" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcnui/shadcnui-original.svg" width="48" height="48" alt="Shadcn/ui" onerror="this.src='https://ui.shadcn.com/favicon.ico'"/>
-
-### ☁️ **Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify" />
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,firebase" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **What I'm Currently Working On**
-
-<div align="center">
-
-🔭 **Building:** Scalable microservices architecture with Node.js  
-🌱 **Learning:** Advanced System Design & Cloud Architecture  
-👯 **Collaborating:** Open source projects and innovative startups  
-💬 **Ask me about:** Backend development, API design, database optimization  
-⚡ **Fun fact:** I debug with console.log and I'm not ashamed! �  
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **GitHub Analytics & Performance**
-
-<div align="center">
-
-### 📈 **Overall Statistics**
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaswatBarai&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaswatBarai&layout=compact&theme=react&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D4AA&text_color=ffffff" />
-
-### 🔥 **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaswatBarai&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA" />
-
-### 📊 **Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaswatBarai&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" />
-
-### 🏆 **Achievements & Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=SaswatBarai&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Let's Connect & Collaborate!**
-
-**💼 I'm always open to interesting conversations and collaboration opportunities!**
-
-<a href="mailto:saswatbarai611@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/saswat-barai" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/saswat_ig" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/saswat_ig" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://github.com/SaswatBarai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-### 🎯 **Open for:**
-- 🚀 **Exciting Full Stack Opportunities**
-- 🤝 **Open Source Collaborations**
-- 💡 **Innovative Project Ideas**
-- 🎤 **Tech Talks & Mentoring**
-- ☕ **Coffee Chats about Technology**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="35"> **Daily Motivation**
-
-<div align="center">
-
-### 💭 **Random Dev Wisdom**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20get%20a%20project%20done%20faster%20is%20to%20start%20sooner&author=Jim%20Highsmith" alt="Dev Quote" />
-
-### 🎯 **My Development Philosophy**
-> *"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."* - Robert C. Martin
-
-### 🚀 **Current Mission**
-**Building scalable solutions that make a difference, one commit at a time!**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **Fun Zone**
-
-### 🐍 **GitHub Contribution Snake**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-### 📊 **Profile Statistics**
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaswatBarai&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/SaswatBarai?label=Followers&style=flat-square&color=00D4AA&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/SaswatBarai?label=Total%20Stars&style=flat-square&color=FFD700&logo=github" alt="GitHub Stars"/>
+  <div>
+    <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;">
+      ☁️ Cloud & DevOps
+    </h3>
+    <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify,docker,git,github,firebase" alt="Cloud & DevOps">
+      </p>
+    </div>
+  </div>
 </div>
 
 ---
 
-<div align="center">
-  **⭐ Star some repositories if you find them interesting!**  
-  **🔄 Don't forget to follow for more awesome projects!**  
-  **💻 Happy Coding! 🚀**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **What I'm Currently Working On**
+
+<div style="background-color: #0D1117; padding: 35px; border-radius: 15px; border: 2px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3); text-align: center;">
+  <h3 style="color: #FFD700; font-size: 28px; margin-bottom: 25px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">🌌 My Current Endeavors 🌌</h3>
+  
+  <div style="max-width: 900px; margin: 0 auto;">
+    <div style="margin: 20px 0; padding: 20px 25px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); box-shadow: 0 4px 15px rgba(0, 212, 170, 0.2); color: #FFFFFF; font-size: 18px; line-height: 1.6; text-align: left;">
+      🔭 <strong style="color: #00D4AA;">Building:</strong> Scalable microservices architecture with <span style="color: #00D4AA;">Node.js</span> to power high-performance applications.
+    </div>
+    
+
+    
+    
+    
+    
+    
+    
+    
+  </div>
+
+  <div  style="max-width: 900px; margin: 0 auto;">
+  <div style="margin: 20px 0; padding: 20px 25px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); box-shadow: 0 4px 15px rgba(0, 212, 170, 0.2); color: #FFFFFF; font-size: 18px; line-height: 1.6; text-align: left;">
+      🌱 <strong style="color: #00D4AA;">Learning:</strong> Diving deep into <span style="color: #00D4AA;">Advanced System Design</span> and <span style="color: #00D4AA;">Cloud Architecture</span> to architect robust solutions.
+    </div>
+  </div>
+
+  <div style="max-width: 900px; margin: 0 auto;">
+  <div style="margin: 20px 0; padding: 20px 25px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); box-shadow: 0 4px 15px rgba(0, 212, 170, 0.2); color: #FFFFFF; font-size: 18px; line-height: 1.6; text-align: left;">
+      👯 <strong style="color: #00D4AA;">Collaborating:</strong> Contributing to <span style="color: #00D4AA;">open source projects</span> and partnering with innovative startups to drive impact.
+    </div>
+  </div>
+
+  <div style="max-width: 900px; margin: 0 auto;">
+  <div style="margin: 20px 0; padding: 20px 25px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); box-shadow: 0 4px 15px rgba(0, 212, 170, 0.2); color: #FFFFFF; font-size: 18px; line-height: 1.6; text-align: left;">
+      💬 <strong style="color: #00D4AA;">Ask me about:</strong> <span style="color: #00D4AA;">Backend development</span>, API design, and database optimization for scalable systems.
+    </div>
+  </div>
+
+  <div style="max-width: 900px; margin: 0 auto;">
+  <div style="margin: 20px 0; padding: 20px 25px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); box-shadow: 0 4px 15px rgba(0, 212, 170, 0.2); color: #FFFFFF; font-size: 18px; line-height: 1.6; text-align: left;">
+      ⚡ <strong style="color: #00D4AA;">Fun fact:</strong> I debug with <span style="color: #00D4AA;">console.log</span> and embrace it as my trusty sidekick! 😎
+    </div>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&width=100%"/>
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **GitHub Analytics & Performance**
+
+<div align="center" style="background-color: #0D1117; padding: 35px; border-radius: 15px; border: 2px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);">
+
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 30px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">📈 Overall Statistics</h3>
+  
+  <div style="margin-bottom: 40px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaswatBarai&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff" alt="GitHub Stats" style="margin: 10px; border-radius: 12px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaswatBarai&layout=compact&theme=react&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D4AA&text_color=ffffff" alt="Top Languages" style="margin: 10px; border-radius: 12px;">
+  </div>
+
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">🔥 Contribution Streak</h3>
+  <div style="margin-bottom: 40px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaswatBarai&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA" alt="GitHub Streak" style="border-radius: 12px;">
+  </div>
+
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">📊 Activity Graph</h3>
+  <div style="margin-bottom: 40px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaswatBarai&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" alt="GitHub Activity Graph" style="border-radius: 12px;">
+  </div>
+
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">🏆 Achievements & Trophies</h3>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=SaswatBarai&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" style="border-radius: 12px;">
+  </div>
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Let's Connect & Collaborate!**
+
+<div style="background-color: #0D1117; padding: 35px; border-radius: 15px; border: 2px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);">
+  
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 25px; text-align: center; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block; width: 100%;">💼 I'm always open to interesting conversations and collaboration opportunities!</h3>
+
+  <div style="text-align: center; margin: 30px 0;">
+    <a href="mailto:saswatbarai611@gmail.com" style="text-decoration: none; margin: 10px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px;">
+    </a>
+    <a href="https://linkedin.com/in/saswat-barai" target="_blank" style="text-decoration: none; margin: 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px;">
+    </a>
+    <a href="https://twitter.com/saswat_ig" target="_blank" style="text-decoration: none; margin: 10px;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 8px;">
+    </a>
+    <a href="https://instagram.com/saswat_ig" target="_blank" style="text-decoration: none; margin: 10px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 8px;">
+    </a>
+    <a href="https://github.com/SaswatBarai" target="_blank" style="text-decoration: none; margin: 10px;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px;">
+    </a>
+  </div>
+
+  <h3 style="color: #FFD700; font-size: 20px; margin: 30px 0 20px 0; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;">
+    🎯 Open for:
+  </h3>
+  
+  <div style="text-align: center;">
+    <div style="display: inline-block; margin: 10px; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); color: #FFFFFF; font-size: 16px;">
+      🚀 <strong style="color: #00D4AA;">Exciting Full Stack Opportunities</strong>
+    </div>
+    <div style="display: inline-block; margin: 10px; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); color: #FFFFFF; font-size: 16px;">
+      🤝 <strong style="color: #00D4AA;">Open Source Collaborations</strong>
+    </div>
+    <div style="display: inline-block; margin: 10px; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); color: #FFFFFF; font-size: 16px;">
+      💡 <strong style="color: #00D4AA;">Innovative Project Ideas</strong>
+    </div>
+    <div style="display: inline-block; margin: 10px; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); color: #FFFFFF; font-size: 16px;">
+      🎤 <strong style="color: #00D4AA;">Tech Talks & Mentoring</strong>
+    </div>
+    <div style="display: inline-block; margin: 10px; padding: 15px 20px; background-color: rgba(0, 212, 170, 0.15); border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.4); color: #FFFFFF; font-size: 16px;">
+      ☕ <strong style="color: #00D4AA;">Coffee Chats about Technology</strong>
+    </div>
+  </div>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **Fun Zone**
+
+<div style="background-color: #0D1117; padding: 35px; border-radius: 15px; border: 2px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);">
+
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 30px; text-align: center; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block; width: 100%;">🐍 GitHub Contribution Snake</h3>
+  
+  <div style="text-align: center; margin-bottom: 40px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="border-radius: 15px; max-width: 100%;">
+    </picture>
+  </div>
+
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; text-align: center; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block; width: 100%;">📊 Profile Statistics</h3>
+  <div style="text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=SaswatBarai&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" style="margin: 10px; border-radius: 8px;">
+    <img src="https://img.shields.io/github/followers/SaswatBarai?label=Followers&style=for-the-badge&color=00D4AA&logo=github" alt="GitHub Followers" style="margin: 10px; border-radius: 8px;">
+    <img src="https://img.shields.io/github/stars/SaswatBarai?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars" style="margin: 10px; border-radius: 8px;">
+  </div>
+</div>
+
+---
+
+<div style="
+  text-align: center;
+  padding: 40px;
+  background-color: #121212;
+  border-radius: 16px;
+  border: 1px solid #333;
+  box-shadow: 
+    0 8px 25px rgba(0, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  max-width: 600px;
+  margin: 20px auto;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  color: #e0e0e0;
+  position: relative;
+  overflow: hidden;
+">
+  
+  <!-- Subtle animated gradient glow -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at center, rgba(255, 215, 0, 0.03), transparent 70%);
+    pointer-events: none;
+  "></div>
+
+  <h3 style="
+    color: #FFD700;
+    font-size: 20px;
+    margin-bottom: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    animation: fadeInUp 0.8s ease forwards 0.1s;
+  ">⭐ Star some repositories if you find them interesting!</h3>
+  
+  <h3 style="
+    color: #4CAF50;
+    font-size: 20px;
+    margin-bottom: 12px;
+    font-weight: 600;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    animation: fadeInUp 0.8s ease forwards 0.3s;
+  ">🔄 Don't forget to follow for more awesome projects!</h3>
+  
+  <h3 style="
+    color: #FFFFFF;
+    font-size: 26px;
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    animation: fadeInUp 0.8s ease forwards 0.5s;
+  ">💻 Happy Coding! 🚀</h3>
+</div>
+
+<!-- Animation styles -->
+<style>
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Optional: Add subtle pulsing effect */
+  @keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.01); }
+  }
+
+  /* Apply to container */
+  div[style*='background-color: #121212'] {
+    animation: pulse 3s infinite;
+  }
+</style>
